@@ -1,0 +1,26 @@
+header{
+    display:flex;
+    justify-content: flex-start;
+    height: 7rem;
+    background-color: rgb(29, 28, 28);
+    gap: 21rem;
+}
+
+#title{
+    color: white;
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-top: 2rem;  
+}
+#logo{
+    width: 120px;
+    margin-bottom: -50px;
+    margin-top: 50px;
+    margin-left: 50px; 
+}
+.card{
+    max-width: 300px;
+}
+.container{
+    margin-bottom: 5rem ;
+}
